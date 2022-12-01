@@ -27,7 +27,7 @@
 
 ### Tech Stack <a name="Html&CSS"></a>
 
-Html is amarkup language and CSS is a styling language for HTML pages
+HTML is a markup language and CSS is a styling language for HTML pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
